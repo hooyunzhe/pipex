@@ -1,6 +1,6 @@
 # pipex ↔️
 
-### 42 Cursus Project 5
+### 42 Cursus Project 6
 
 **Score: 125/125**
 
